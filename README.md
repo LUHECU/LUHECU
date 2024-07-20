@@ -4,21 +4,16 @@
 <!-- Title -->
 <h1>Hi, I'm Luis Hernández</h1>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <h3 align="left">About me:</h3>
 
-- I am a Bachelor System Engineering student
-- This year going to be my second year studying Bachelor System Engineering
+<div>
+- I am advanced Bachelor System Engineering student
+- This year going to be my third year studying Bachelor System Engineering
 - I got a Software Development technical diploma
 - I am always looking for new opportunities to learn about technology and programming
 - I like all new AI technologies
-  
+</div>
   
 
 <h3 align="left">Languages and Tools:</h3>
