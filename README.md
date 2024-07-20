@@ -16,11 +16,13 @@
 
 <div>
     <ul>
-    <li>I am advanced Bachelor System Engineering student</li>
-    <li>This year going to be my third year studying Bachelor System Engineering</li>
-    <li>I got a Software Development technical diploma</li>
-    <li>I am always looking for new opportunities to learn about technology and programming</li>
-    <li>I like all new AI technologies</li>
+        <li>This year going to be my third year studying Bachelor System Engineering</li>
+        <li>I got a Software Development technical diploma</li>
+        <li>I got a CCNA: Introduction to Networks certification</li>
+        <li>I got a Scrum Fundamentals certification</li>
+        <li>I am always looking for new opportunities to learn about technology and programming</li>
+        <li>I like all about new AI technologies</li>
+        <li>I would like to be a Database Administrator</li>
     </ul>
 </div>
   
