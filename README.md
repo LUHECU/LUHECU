@@ -4,6 +4,13 @@
 <!-- Title -->
 <h1>Hi, I'm Luis Hernández</h1>
 
+<div>
+    <p>
+        Advanced Bachelor’s System Engineering student, with outstanding skills creating and editing databases using Oracle
+        and SQL. Experienced working with Java, .Net, C#, and object-oriented programming. Additionally, solid foundation in 
+        front-end development using HTML5 and CSS3, with complementary knowledge in JavaScript.
+    </p>
+</div>
 
 <h3 align="left">About me:</h3>
 
