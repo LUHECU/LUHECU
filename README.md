@@ -6,25 +6,10 @@
 
 <div>
     <p>
-        Advanced Bachelor’s System Engineering student, with outstanding skills creating and editing databases using Oracle
-        and SQL. Experienced working with Java, .Net, C#, and object-oriented programming. Additionally, solid foundation in 
-        front-end development using HTML5 and CSS3, with complementary knowledge in JavaScript.
+        Full Stack Developer with hands-on experience supporting and maintaining enterprise web applications built with Angular and Node.js. Strong background in SQL, relational database optimization, and APIs lifecycle support. Experienced in identifying/solving production issues, optimizing queries, and implementing structured data ingestion processes. Recognized for pragmatic problem-solving, ownership of incidents, and clear technical communication in Agile environments.
     </p>
 </div>
 
-<h3 align="left">About me:</h3>
-
-<div>
-    <ul>
-        <li>This year going to be my third year studying Bachelor System Engineering</li>
-        <li>I got a Software Development technical diploma</li>
-        <li>I got a CCNA: Introduction to Networks certification</li>
-        <li>I got a Scrum Fundamentals certification</li>
-        <li>I am always looking for new opportunities to learn about technology and programming</li>
-        <li>I like all about new AI technologies</li>
-        <li>I would like to be a Database Administrator</li>
-    </ul>
-</div>
   
 
 <h3 align="left">Languages and Tools:</h3>
