@@ -18,7 +18,7 @@ I build things that work in production — not just in theory.
   64-table legacy MySQL database — no docs, delivered solo
 - A customer support chatbot that automated 60–70% of
   incoming queries in production (WATI / Instagram)
-- Full-stack ATS platform built from scratch — CSV ingestion
+- Full-stack ATS platform modules built from scratch — CSV ingestion
   pipelines, psychometric evaluation module, PostgreSQL
 
 ## Currently
